@@ -1,7 +1,7 @@
 package examen_simulacro;
 
 public class ClienteMario2 {
-	
+	//Commit 
 		private String Nombre;
 		private String Dirección;
 		private PerroMario2 Perro;
@@ -15,3 +15,4 @@ public class ClienteMario2 {
 	}
 
 }
+
